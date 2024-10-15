@@ -1,6 +1,7 @@
 # PID Control Study for 1-DoF Manipulator Based on Forward Kinematics
 
-## Overview
+**Course**: FIA304 - Control Systems 
+
 In this study, we design a Proportional-Integral-Derivative (PID) controller for a 1-degree of freedom (DoF) manipulator. The controller is essential for achieving the desired output, which is often challenging due to dynamic changes in the system. By developing a mathematical model of the manipulator, we aim to enhance the accuracy and efficiency of the control system, ensuring stable operation in accordance with established requirements.
 
 ## Key Features
